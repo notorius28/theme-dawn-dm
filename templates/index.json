@@ -51,79 +51,6 @@
         "show_text_below": false
       }
     },
-    "featured_product_eYbCDx": {
-      "type": "featured-product",
-      "blocks": {
-        "text_RxCa7w": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Producto destacado",
-            "text_style": "uppercase"
-          }
-        },
-        "title_FxG3pe": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_EWTMDQ": {
-          "type": "price",
-          "disabled": true,
-          "settings": {}
-        },
-        "variant_picker_8KMLbd": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "quantity_selector_WqBUUU": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {}
-        },
-        "buy_buttons_TeagHr": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "share_rcRTAY": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Compartir"
-          }
-        }
-      },
-      "block_order": [
-        "text_RxCa7w",
-        "title_FxG3pe",
-        "price_EWTMDQ",
-        "variant_picker_8KMLbd",
-        "quantity_selector_WqBUUU",
-        "buy_buttons_TeagHr",
-        "share_rcRTAY"
-      ],
-      "settings": {
-        "product": "de-la-soul-buhloone-mindstate-reedicion",
-        "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -183,7 +110,6 @@
   },
   "order": [
     "image_banner",
-    "featured_product_eYbCDx",
     "featured_collection",
     "featured_collection_RinThP"
   ]
