@@ -2500,12 +2500,6 @@ input[type='checkbox'] {
     justify-self: center;
     text-align: center;
   }
-
-    /*RicardoGP: Establecemos márgenes laterales para toda la web */
-  #MainContent {
-    margin-left: 20%;
-    margin-right: 20%; 
-  }
 }
 
 /* Header icons */

@@ -243,8 +243,6 @@ a.product__text {
 
 .product__text.caption-with-letter-spacing {
   text-transform: uppercase;
-  /*RicardoGP aumentamos el tamaño del título del album*/
-  font-size: 2.5rem;
 }
 
 .product__title {
@@ -1494,5 +1492,3 @@ a.product__text {
     border: none;
   }
 }
-
-/* Personalizaciones de metacampos */

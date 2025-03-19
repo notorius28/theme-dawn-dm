@@ -69,7 +69,6 @@
 
 .collection__title.title-wrapper {
   margin-bottom: 2.5rem;
-  text-align: center;
 }
 
 .collection__title .title:not(:only-child) {
@@ -97,9 +96,4 @@
 
 .collection__view-all a:not(.link) {
   margin-top: 1rem;
-}
-
-/* RicardoGP: Ocultamos los precios en las colecciones */
-.price {
-  display: none;
 }
