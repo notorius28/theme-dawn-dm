@@ -161,6 +161,11 @@
           "button_vertical_position": "lowest",
           "greeting_message": ""
         }
+      },
+      "8670728856252544919": {
+        "type": "shopify://apps/essential-estimated/blocks/app-embed/02a895dd-b5b5-4103-8966-c6914aa8309e",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
